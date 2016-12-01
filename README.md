@@ -1,2 +1,0 @@
-# Tekla
-Tekla Structures
